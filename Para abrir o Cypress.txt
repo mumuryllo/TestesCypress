@@ -1,1 +1,4 @@
+npm init -y
+npm install cypress@3.6.0
+npm install cypress-xpath
 npm run cypress:open
